@@ -1,0 +1,9 @@
+[submodule "web"]
+	path = web
+	url = https://github.com/Abdul04983/VibeTZ-web.git
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/Abdul04983/VibeTZ-mobile.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Abdul04983/VibeTZ-backend.git
