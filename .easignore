@@ -1,0 +1,6 @@
+node_modules
+.git
+assets/videos
+__tests__
+*.log
+.env
